@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SignedApplication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PathToDownload>https://maymeow.b-cdn.net/MayMeow.NetworkDrives.Agent.exe</PathToDownload>
+  <Signature>Z2Yc5IyY9HjwvqJ/lBSLdLwxlTl3fX3Jo3rExQRqzz/Fb5Ib9VYO2SiD+xifA0jcI/OvzTX5yTRV9T0aqGSRXv6ccBv0qmj46vK/Lzufm0J7cOOIw5iC/dOeaA9zbPqnKD1x25BpROo3Chda1286oO7G1kDPygCvPtHZZh0aQOE=</Signature>
+  <Hash>C87B164C56ECA86301CAD5D238851F043C1F9B931F5D541BE7272EC422620597</Hash>
+  <PublicKey>UlNBMQAEAAADAAAAgAAAAAAAAAAAAAAAAQABsYcgP3LxukKYugRNyhar7BgYK7/G0XC/0m5Zx4x4+/DUIURARGlaQMDoQcHeA+CW716xrsHu5fK976PkoE6/HVxN+APXBfdSNVf2mm6c9qeeIXT+rmZUe1D63F/qAts5elm+DR8gTSXk7VxI7DNzvx5KWemQTMHvjunJb49CvtU=</PublicKey>
+</SignedApplication>

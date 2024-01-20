@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SignedApplication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Repository>MayMeow/AppStore.Example</Repository>
+  <RepositorySignature>BijPcoW76FHQpH8KPv4sioWeqUakUOAOeCoqZd4CM6F2qOutfaWt1JHkP29+RjwiAtDIfm98dG2nKPVxXQ5GPw==</RepositorySignature>
+  <PublicKey>RUNTMSAAAADuFgfuKh1FXkLqff2asOxdfWDPlBkJ5lP+6GfzZ4DOEwdHSaRoP/0t0gzLBI9Rhr/FnklH1RycUhUk1B4JijIX</PublicKey>
+</SignedApplication>

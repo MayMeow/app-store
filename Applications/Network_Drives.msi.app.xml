@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-16"?>
 <SignedApplication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <PathToDownload>https://maymeow.b-cdn.net/Network_Drives.msi</PathToDownload>
+  <PathToDownload>https://download.kukolos.com/Network_Drives.msi</PathToDownload>
   <Signature>sVeaJne2DonIIR1kfhTBGgXd2p0CemNQjT65fpJjiywZ5SvVxR1OjImxxN3JFi+m2Pl2bnsK/3g6lL7v/9C/E3oslgQzFAhCxyDUAXFValLhHaOrVma4MzkrawJjkUx7IoeE1rOOYI+brj8UlDiQ2uPWYC0GtZH0TiALjjy3EJo=</Signature>
   <Hash>4DEC8F22E0A506979E9DAB0A48ACB2B3058C85F51222DFACD8544A3190BD20D3</Hash>
   <PublicKey>UlNBMQAEAAADAAAAgAAAAAAAAAAAAAAAAQABsYcgP3LxukKYugRNyhar7BgYK7/G0XC/0m5Zx4x4+/DUIURARGlaQMDoQcHeA+CW716xrsHu5fK976PkoE6/HVxN+APXBfdSNVf2mm6c9qeeIXT+rmZUe1D63F/qAts5elm+DR8gTSXk7VxI7DNzvx5KWemQTMHvjunJb49CvtU=</PublicKey>

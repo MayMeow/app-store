@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SignedApplication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Repository>gnoma-sk/network-drives</Repository>
+  <RepositorySignature>2EtxxdziG7fY7yvKtkIhCDAA/LyCAoHPNv3XdTmhAwW9rVOAdmo3QHvQEI9S5jIuuUi31O8HFsiHAzbmdH2Y8g==</RepositorySignature>
+  <PublicKey>RUNTMSAAAABbvIF7IbZTZ5B7AGkMDRwRtxMda7vHxZiNKFXUKdF6/HvOs//uMr4GOEUN/Csz19yv9sTdkGtEfS2X8/zzO3OY</PublicKey>
+</SignedApplication>

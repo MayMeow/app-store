@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SignedApplication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Repository>MartinKukolos/drives</Repository>
+  <RepositorySignature>Vkrjw95SOv7PJFrCoO8ico9dbklGQIOQ5JC3ofi9AA7PM5vjc0HLCZnQ2I5LmMUoDLts5HEaCi63u2BkA04pIw==</RepositorySignature>
+  <PublicKey>RUNTMSAAAABbvIF7IbZTZ5B7AGkMDRwRtxMda7vHxZiNKFXUKdF6/HvOs//uMr4GOEUN/Csz19yv9sTdkGtEfS2X8/zzO3OY</PublicKey>
+</SignedApplication>

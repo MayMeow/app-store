@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SignedApplication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Repository>MayMeow/app-store.toolkit</Repository>
+  <RepositorySignature>ePczqHlN1AnoLpoxxN+b4eQiYZRIn2op9mMc+CXS7KRqTuMDjVFf9pgkffglcciPdif7CWllZxkrzaJ6JnIQRg==</RepositorySignature>
+  <PublicKey>RUNTMSAAAADuFgfuKh1FXkLqff2asOxdfWDPlBkJ5lP+6GfzZ4DOEwdHSaRoP/0t0gzLBI9Rhr/FnklH1RycUhUk1B4JijIX</PublicKey>
+</SignedApplication>

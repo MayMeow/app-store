@@ -8,7 +8,7 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | v2  | :white_check_mark: |
-| v1  | :white_check_mark: |
+| v1  | :white_check_mark: deprecated, not accpeting pull requests for new applications, old applications still working  |
 
 ## Reporting a Vulnerability
 
@@ -35,4 +35,3 @@ We appreciate responsible disclosure of vulnerabilities. Please allow us reasona
 ## Credits
 
 We recognize and appreciate security researchers who contribute to the safety of this project.  
-

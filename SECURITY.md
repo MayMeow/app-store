@@ -35,4 +35,4 @@ We appreciate responsible disclosure of vulnerabilities. Please allow us reasona
 ## Credits
 
 We recognize and appreciate security researchers who contribute to the safety of this project.  
-(Feel free to add additional details relevant to your project.)
+

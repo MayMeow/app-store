@@ -1,0 +1,28 @@
+{
+  "name": "app-store",
+  "version": "1.0.0",
+  "description": "app store",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test.sj",
+    "generate": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayMeow/app-store.git"
+  },
+  "keywords": [
+    "app-store"
+  ],
+  "author": "May <3164256+MayMeow@users.noreply.github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayMeow/app-store/issues"
+  },
+  "homepage": "https://github.com/MayMeow/app-store#readme",
+  "dependencies": {
+    "fast-xml-parser": "^5.3.2",
+    "fs-extra": "^11.3.2"
+  }
+}
